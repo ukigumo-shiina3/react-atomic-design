@@ -1,2 +1,3 @@
 # react-atomic-design
-Created with CodeSandbox
+atomic-designを活用したコンポーネント分割の学習
+
